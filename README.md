@@ -3,6 +3,9 @@
 #### https://skyline.github.com/kushrawat/2021
 #### https://skyline.github.com/kushrawat/2020
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KushRawat)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **KushRawat/KushRawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
