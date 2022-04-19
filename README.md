@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Kush
 I'm a self-taught passionate FullStack developer.
 
-Skills: REACT / JS / HTML / CSS / NODE / MONGO
+Skills: REACT / JS / HTML / CSS / NODE / MONGO / PYTHON
 
 
 
