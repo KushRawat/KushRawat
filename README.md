@@ -21,9 +21,3 @@ Full-stack engineer, self-taught, four years in. I take products from zero to pr
 🌐 [Portfolio](https://kushrawat.github.io) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/kushrawat) &nbsp;·&nbsp; ✉️ rawatkush0704@gmail.com
 
 ---
-
-![Kush's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=KushRawat&bg_color=0d1117&color=e8eaf2&line=8b5cf6&point=22d3ee&area=true&hide_border=true)
-
-<!-- Optional: the stats card below is nice when it loads, but the free public instance
-     is often rate-limited by GitHub and can show a broken image. Keep or delete it. -->
-[![Kush's GitHub stats](https://github-readme-stats.vercel.app/api?username=KushRawat&show_icons=true&count_private=true&hide_border=true&title_color=8b5cf6&icon_color=22d3ee&text_color=9aa1b5&bg_color=0d1117)](https://github.com/KushRawat)
