@@ -1,8 +1,8 @@
 ### Hi, I'm Kush 👋
 
-Full-stack engineer, self-taught, four years in. I take products from zero to production — frontend, backend, and the infrastructure in between. My early work was building payment and KYC systems in fintech; these days I build across the stack and ship fast with AI in the loop.
+Full-stack engineer, self-taught, four years in. I take products from zero to production - frontend, backend, and the infrastructure in between. My early work was building payment and KYC systems in fintech; these days I build across the stack and ship fast with AI in the loop.
 
-**Currently:** building [Trivzy](https://trivzy.in) (a hostel operations platform, live) and doing contract product work.
+**Currently:** building [Trivzy](https://trivzy.in) (a hostel operations platform, live) - side project and doing contract product work.
 
 #### Tech I reach for
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
